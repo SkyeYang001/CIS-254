@@ -1,0 +1,37 @@
+Triangle
+
+=====*
+====***
+===*****
+==*******
+=*********
+***********
+
+Length = 6
+
+Line 1:
+ Print 5 Spaces System.out.print(.    )
+ Print 1 Star System.out.print(*)
+
+Line 2:
+ Print 4 Spaces System.out.print(.   )
+ Print 3 Stars System.out.print(***)
+
+Line 3:
+ Print 3 Spaces System.out.print(.  )
+ Print 5 Stars System.out.print(*****)
+
+Line 4:
+ Print 2 Spaces System.out.print(. )
+ Print 7 Stars System.out.print(*******)
+
+Line 5:
+ Print 1 Spaces System.out.print( )
+ Print 9 Stars System.out.print(*********)
+
+ Line 6:
+ Print 0 Spaces System.out.print()
+ Print 12 Stars System.out.print(************)
+
+ Skye Yang
+ 

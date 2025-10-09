@@ -1,0 +1,11 @@
+Skye Yang
+
+Conversion
+Mile to Feet
+
+DISPLAY ("Enter a value in miles to convert: ")
+miles = INPUT()
+feet = mile * 5280
+DISPLAY ("The value in feet is: ")
+DISPLAY (feet + "ft.")
+
