@@ -45,6 +45,7 @@ public class Array {
             }
         }
         System.out.println(amount);
+        input.close();
     }
 
 }
