@@ -1,7 +1,8 @@
 /**
  * Final Project
  * Description:
- * Magic Ball Fortune class, represents a Magic 8 Ball fortune and its type (affirmative, non-committal, or negative).
+ * Magic Ball Fortune class, represents a Magic 8 Ball fortune and its type
+ * (affirmative, non-committal, or negative).
  * and type.
  * 
  * @author Skye Yang
@@ -44,6 +45,7 @@ public class MagicBallFortune {
 
     /**
      * Sets type character
+     * 
      * @param type
      */
     public void setType(char type) {
@@ -85,4 +87,5 @@ public class MagicBallFortune {
         }
         return String.format("%s (%s)", fortune, category);
     }
+
 }
