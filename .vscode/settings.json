@@ -1,7 +1,9 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
-        "Classwork/Week14/ScrabbleProjectLab/ScrabbleProjectLab/src"
+        "Homework/Week12/BankAccountProject/src",
+        "Classwork/Week14/ScrabbleProjectLab/ScrabbleProjectLab/src",
+        "Classwork/Week15/MyGUIApp/src"
     ],
     "java.project.referencedLibraries": []
 }
